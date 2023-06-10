@@ -1,0 +1,64 @@
+body {
+    font-family: Times;
+    text-align: center;
+    color: #4b0000;
+    background-color: #ad8181;
+    padding: 0;
+    margin: 0;
+}
+
+
+.imglogo {
+ width: 30%;
+ left: 0pt;
+}  
+
+
+.img {
+    border: 5px; 
+    width: 70%;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #4b0000;
+}
+
+nav ul {
+display: flex;
+align-items: center;
+list-style: none;
+}
+
+ul li {
+    margin: 12px;
+}
+
+ul li a {
+    font-size: 20px;
+    font-family: helvetica;
+    color: #000000;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    padding: 20px;
+    border-top: 1px solid #4b0000;
+    margin-top: 20px;
+}
